@@ -1,0 +1,12 @@
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\bin\Debug\RyanSerialChecker.exe.config
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\bin\Debug\RyanSerialChecker.exe
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\bin\Debug\RyanSerialChecker.pdb
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\bin\Debug\Guna.UI2.dll
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\obj\Debug\RyanSerialChecker.csproj.AssemblyReference.cache
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\obj\Debug\RyanSerialChecker.Form1.resources
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\obj\Debug\RyanSerialChecker.Properties.Resources.resources
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\obj\Debug\RyanSerialChecker.csproj.GenerateResource.cache
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\obj\Debug\RyanSerialChecker.csproj.CoreCompileInputs.cache
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\obj\Debug\RyanSeri.45880B8F.Up2Date
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\obj\Debug\RyanSerialChecker.exe
+C:\Users\noman\source\repos\RyanSerialChecker\RyanSerialChecker\obj\Debug\RyanSerialChecker.pdb
