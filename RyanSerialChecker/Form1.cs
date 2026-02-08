@@ -121,11 +121,20 @@ namespace RyanSerialChecker
                 process5.Start();
                 string output = process5.StandardOutput.ReadToEnd();
                 process5.WaitForExit();
-                guna2TextBox5.Text = (output.Remove(0, 10).Trim());
+                if (output.Contains("MACAddress"))
+                {
+                    guna2TextBox5.Text = (output.Remove(0, 12).Trim());
+                }
+                else
+                {
+                    guna2TextBox5.Text = "No MAC Address Found";
+                }
+
 
             }
             timer1.Stop();
         }
+    
 
         private void guna2Button1_Click(object sender, EventArgs e)
         {
